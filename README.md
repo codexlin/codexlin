@@ -51,7 +51,7 @@
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - ✍ I write technical blogs, You can visit my blog site at [cnblogs](https://www.cnblogs.com/CodeForBetter).
 - ❤ Contributing to Open Source.
-- 💻 Visit my [HomePage](https://codexlin.com) for more details about me.
+- 💻 Visit my [Portfolio](https://codexlin.com) for more details about me.
 - 📫 Contact at `codexlin@gmail.com`.
 -  :zap: Code For Better.
 <!--End Intro-->
