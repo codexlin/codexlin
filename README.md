@@ -49,7 +49,7 @@
 
 - ✨ Lifelong learner, embracing every day as an opportunity to grow.
 - 🌱 Currently expanding my skillset in various areas of tech.
-- ✍ I share insights through my technical blog, which you can explore on [cnblogs](https://www.cnblogs.com/CodeForBetter).
+- ✍ You can check out my technical insights on my blog at [cnblogs](https://www.cnblogs.com/CodeForBetter).
 - ❤  Committed to contributing to open-source projects.
 - 💻 Visit my [Portfolio](https://codexlin.com) for more details about me.
 - 📫 Feel free to reach out at `codexlin@gmail.com`.
