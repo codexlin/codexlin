@@ -40,19 +40,19 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Code❌Lin ! 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ 𝑪𝒐𝒅𝒆❌𝑳𝒊𝒏 ! 
 *Digital Craftsman (Developer / Programmer)*
 <br /> 
 
 <!--Start Intro-->               
 <p align="left"> Based in China, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a Fullstack developer passionate about building a modern web application that users love. </p>
 
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- ✍ I write technical blogs, You can visit my blog site at [cnblogs](https://www.cnblogs.com/CodeForBetter).
-- ❤ Contributing to Open Source.
+- ✨ Lifelong learner, embracing every day as an opportunity to grow.
+- 🌱 Currently expanding my skillset in various areas of tech.
+- ✍ I share insights through my technical blog, which you can explore on [cnblogs](https://www.cnblogs.com/CodeForBetter).
+- ❤  Committed to contributing to open-source projects.
 - 💻 Visit my [Portfolio](https://codexlin.com) for more details about me.
-- 📫 Contact at `codexlin@gmail.com`.
+- 📫 Feel free to reach out at `codexlin@gmail.com`.
 -  :zap: Code For Better.
 <!--End Intro-->
 
