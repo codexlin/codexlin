@@ -178,7 +178,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=AceLin&quote=It's%20not%20about%20what%20it%20is%2C%20it's%20about%20what%20it%20can%20become.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=CodexLin&quote=It's%20not%20about%20what%20it%20is%2C%20it's%20about%20what%20it%20can%20become.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
