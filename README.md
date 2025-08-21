@@ -7,14 +7,17 @@
     </a>
   </div>
   
-  ![Visitor Count](https://profile-counter.glitch.me/codexlin/count.svg)
+  <!--Profile Count Badge-->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codexlin&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="codexlin" style="padding-right:20px;" />
+</p>
 
   <!-- knock code pictures 敲代码的图片 -->
   <img src="https://cdn.jsdelivr.net/gh/codexlin/jsDelivr/assets/images/coding.gif" /><br>
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <a href="https://www.cnblogs.com/pglin/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+    <a href="https://www.cnblogs.com/CodeForBetter/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
     <a href="https://twitter.com/CodeLin575/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <a href="https://www.youtube.com/@renjielin1065"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
     <a href="https://b23.tv/ydpCGqe/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
@@ -56,10 +59,7 @@
 -  :zap: Code For Better.
 <!--End Intro-->
 
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=codexlin&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="codexlin" style="padding-right:20px;" />
-</p>
+
 
 <br />
 <!-- ########################################## 分割 ########################################## -->
