@@ -65,7 +65,7 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="100%" src="https://cdn.jsdelivr.net/gh/codexlin/jsDelivr/assets/images/hr.gif" />
 <!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<h2 align="center">🏆 Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs 🏆</h2> 
 
 <div align="center">
   <!--  skill badge 技能徽章 -->
@@ -111,61 +111,10 @@
 <!-- programming tool icon 编程工具图标 -->
 <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,vue,tailwind,py,java,docker,mysql,nodejs,vscode,idea,linux,git" /><br>
 </div>
+
 <br />
 
 <img width="100%" src="https://cdn.jsdelivr.net/gh/codexlin/jsDelivr/assets/images/hr.gif" />
-
-<!--Trophies Section-->   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/codexlin/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=codexlin&theme=radical&row=1&column=6&margin-w=15&margin-h=20&no-frame=true&no-bg=true" alt="GitHub Trophies">
-  </a>
-</p>
-<br />
-
-<!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/codexlin">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=codexlin&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/codexlin">
-          <img align="center" src="https://streak-stats.demolab.com?user=codexlin&theme=nightowl" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/codexlin/vue-ace-admin">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=codexlin&repo=vue-ace-admin&theme=nightowl&show_owner=true" alt="vue-ace-admin" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/codexlin">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=codexlin&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-<br />
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
